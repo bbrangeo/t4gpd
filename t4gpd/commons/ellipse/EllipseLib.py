@@ -20,7 +20,8 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with t4gpd.  If not, see <https://www.gnu.org/licenses/>.
 '''
-from numpy import cos, isnan, linspace, math, pi, prod, sin, sqrt
+from numpy import cos, isnan, linspace, pi, prod, sin, sqrt
+from math import math
 from shapely.geometry import LineString, Point, Polygon
 
 
